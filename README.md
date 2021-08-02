@@ -1,6 +1,6 @@
 # Dekalabs contracts
 
-A set of helpful ethereum smart contracts.
+A set of ethereum smart contracts to help with development.
 
 ## Contracts
 
