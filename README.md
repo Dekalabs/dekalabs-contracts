@@ -4,7 +4,7 @@ A set of ethereum smart contracts to help with development.
 
 ## Contracts
 
-[Whitelist](/contracts/WhiteList.sol): Whitelist of addresses, and basic authorization control function.
+[Whitelist](/contracts/Whitelist.sol): Whitelist of addresses, and basic authorization control function.
 
 ### Development
 
